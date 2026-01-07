@@ -5,7 +5,7 @@ Python • SQL • Tableau • Excel • Data Visualization • Business Intelli
 
 I am a results-driven Data Analyst with over 4 years of experience analyzing, visualizing, and transforming data into actionable business insights. I enjoy solving real-world problems using data, automation, and clear storytelling.
 
-🔍 What I Do
+* What I Do
 
 Analyze and clean large datasets
 
@@ -44,3 +44,45 @@ LinkedIn: 👉 (www.linkedin.com/in/ogunkeye-sodiq-olushola-328944155)
 GitHub: https://github.com/olusholahogunkeye8-beep
 
 ⭐ I’m open to Data Analyst, Business Intelligence, and Junior Data Scientist roles.
+
+# Project Title Customer (Churn Analysis)
+* Problem Statement
+
+Customer churn negatively impacts business growth. 
+This project analyzes customer data to identify key factors influencing churn and provide actionable insights for retention strategies.
+
+* Dataset
+
+Source: Public customer churn dataset
+
+Description: Customer demographics, usage patterns, and churn labels
+
+* Tools & Technologies
+
+Python
+
+Pandas, NumPy, Matplotlib
+
+SQL (for querying)
+
+* Approach
+
+Cleaned and prepared raw data
+
+Performed exploratory data analysis (EDA)
+
+Visualized churn patterns and trends
+
+Identified high-risk customer segments
+
+* Key Insights
+
+High churn observed among low-tenure customers
+
+Service usage patterns strongly influence churn
+
+Certain customer segments require targeted retention strategies
+
+📌 Conclusion
+
+The analysis provides insights that can help businesses reduce churn and improve customer retention through data-driven decisions.
