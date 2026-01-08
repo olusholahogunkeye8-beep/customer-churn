@@ -45,44 +45,123 @@ GitHub: https://github.com/olusholahogunkeye8-beep
 
 ⭐ I’m open to Data Analyst, Business Intelligence, and Junior Data Scientist roles.
 
-# Project Title Customer (Churn Analysis)
-* Problem Statement
+Customer Churn Analysis & Insights
+🧠 Problem Statement
 
-Customer churn negatively impacts business growth. 
-This project analyzes customer data to identify key factors influencing churn and provide actionable insights for retention strategies.
+Customer churn directly affects revenue and long-term business growth.
+The objective of this project is to analyze customer data to identify key factors contributing to churn and provide data-driven insights that can support customer retention strategies.
 
-* Dataset
+🎯 Project Objectives
+
+Identify patterns and trends associated with customer churn
+
+Understand customer behavior across different segments
+
+Provide actionable insights to reduce churn
+
+Demonstrate data analysis and visualization skills using Python and SQL
+
+📁 Dataset
 
 Source: Public customer churn dataset
 
-Description: Customer demographics, usage patterns, and churn labels
+Description: The dataset includes customer demographics, service usage, tenure, billing information, and churn labels.
 
-* Tools & Technologies
+🛠 Tools & Technologies
 
-Python
+Programming Language: Python
 
-Pandas, NumPy, Matplotlib
+Libraries: Pandas, NumPy, Matplotlib
 
-SQL (for querying)
+Database: SQL (for querying and aggregation)
 
-* Approach
+Visualization: Matplotlib
 
-Cleaned and prepared raw data
+🔍 Methodology
 
-Performed exploratory data analysis (EDA)
+Data Cleaning & Preparation
 
-Visualized churn patterns and trends
+Handled missing values and inconsistencies
 
-Identified high-risk customer segments
+Converted data types for accurate analysis
 
-* Key Insights
+Removed duplicates and standardized variables
 
-High churn observed among low-tenure customers
+Exploratory Data Analysis (EDA)
 
-Service usage patterns strongly influence churn
+Analyzed churn distribution
+
+Examined relationships between churn and customer tenure
+
+Compared churn rates across customer segments
+
+Data Visualization
+
+Created visualizations to highlight churn patterns
+
+Used charts to communicate insights clearly
+
+Insight Generation
+
+Identified high-risk churn segments
+
+Highlighted factors influencing customer churn
+
+📈 Key Insights
+
+Customers with short tenure showed significantly higher churn rates
+
+Service usage patterns strongly influenced churn behavior
 
 Certain customer segments require targeted retention strategies
 
-📌 Conclusion
+Early customer engagement plays a critical role in retention
 
-The analysis provides insights that can help businesses reduce churn and improve customer retention through data-driven decisions.
+📌 Business Recommendations
+
+Improve onboarding experience for new customers
+
+Implement loyalty or engagement programs for early-stage customers
+
+Monitor high-risk segments using churn indicators
+
+Use data-driven alerts to proactively address churn risks
+
+▶️ How to Run the Project
+
+Clone the repository
+
+git clone https://github.com/olusholahogunkeye8-beep/customer-churn-analysis
+
+
+Install required libraries
+
+pip install pandas numpy matplotlib
+
+
+Open and run the Jupyter Notebook or Python script
+
+📂 Project Structure
+customer-churn-analysis/
+│
+├── data/               # Dataset files
+├── notebooks/          # Jupyter notebooks
+├── scripts/            # Python scripts
+├── visuals/            # Charts and plots
+├── README.md           # Project documentation
+
+🔮 Future Improvements
+
+Build a churn prediction model using Machine Learning
+
+Add interactive dashboards (Tableau / Power BI)
+
+Automate churn monitoring reports
+
+👤 Author
+
+Olusola Ogunkeye
+📊 Data Analyst | Aspiring Data Scientist
+🔗 GitHub: https://github.com/olusholahogunkeye8-beep
+
+
